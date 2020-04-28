@@ -1,0 +1,33 @@
+
+body {
+  background-color: coral;
+  max-width: 700px;
+  margin-left : auto;
+  margin-right : auto;
+  padding : 0px;
+}
+address {
+  text-align: right;
+  font-family: 'Cutive Mono', monospace;
+
+}
+ .date {
+   text-align: right;
+   font-family: 'Share Tech Mono', monospace;
+ }
+
+ header {
+   font-family: 'Cutive Mono', monospace;
+
+ }
+b {
+  font-weight: bold;
+}
+
+article {
+  font-family: 'Share Tech Mono', monospace;
+}
+.indent {
+  padding-left: 50px;
+  text-indent: -50px;
+}
